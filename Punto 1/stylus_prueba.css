@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.equis{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+div.equis div{
+    
+    width: 50%;
+    height: 50%;
+    box-sizing: border-box;
+}
